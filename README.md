@@ -49,8 +49,12 @@ Telco Customer Churn Dataset
 
 Streamlit Application
 
-##HomeScreen Screenshots
+## HomeScreen Screenshots
 ![Home Page](screenshots/input-form.png)
+
+## High Risk and Low Risk Predictions
+![High Risk](screenshots/highrisk.png)
+![Low Riske](screenshots/lowrisk.png)
 
 ## Author
 
