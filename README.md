@@ -49,6 +49,9 @@ Telco Customer Churn Dataset
 
 Streamlit Application
 
+##HomeScreen Screenshots
+![Home Page](screenshots/input-form.png)
+
 ## Author
 
 Sahil Shah
